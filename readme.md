@@ -1,4 +1,4 @@
-# 🔓 Removedor de Senha de PDF (Flask App) 📄
+# 🔓 Removedor de Senha de  PDF (Flask App) 📄
 
 Este repositório contém o código de uma aplicação web Flask simples que permite remover a senha de arquivos PDF. A aplicação fornece uma interface HTML básica para upload de arquivos, inserção de senha e download do PDF descriptografado.
 
